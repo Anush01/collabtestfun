@@ -10,5 +10,6 @@ fun main(){
 }
 
 fun main0() {
-    print("Hello world")
+    //this will cause a conflict
+    print("Hello subham world")
 }
